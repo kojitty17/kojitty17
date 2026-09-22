@@ -24,7 +24,7 @@ One thing I would like to do is combine my interests in various fields to create
 - Adaptive Tuning Software for big manufacturers, their racing teams, and daily car enthusiasts.
 - A med-tech app that can go through a catalog of current diseases, treatment methods, etc, and simulate new innovative cures to find more effective/ undiscovered treatment options.
 - Music-related apps and software. (Supporting Djs, Event hosts, etc.)
-- 
+  
 
 I am also a part of the Handshake AI fellowship program
 
